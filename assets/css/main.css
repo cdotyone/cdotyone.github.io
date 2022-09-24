@@ -53,12 +53,6 @@ h3:before {
 
 @media only screen and (min-width: 1600px) {
 	.jumbotron.home {
-		background-position-y: -16em;
-	}
-}
-
-@media only screen and (min-width: 2000px) {
-	.jumbotron.home {
 		background-position-y: -20em;
 	}
 }
