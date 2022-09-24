@@ -42,6 +42,7 @@ h3:before {
 
 .jumbotron.home {
 	background-image: url(/assets/images/top.jpg);
+	background-position-y: -9em;
 }
 
 .jumbotron h1 {
