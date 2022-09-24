@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'cdotyone'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'G-ZNT55L44X4'
 
 menu: 
   - name: SpaceX CAMS
