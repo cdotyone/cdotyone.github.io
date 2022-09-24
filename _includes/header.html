@@ -43,9 +43,14 @@
 			</div>
 		</div>
 	</nav>
-	<div class="jumbotron  clearfix">
+		{% if page.noimage %}
+			<div class="jumbotron clearfix">
+				<h1 class="text-center">{{ page.title }}</h1>
+			</div>
+		{% else %}
+			<div class="jumbotron home clearfix">
+				<h1 class="text-center">{{ page.title }}</h1>
+			</div>
+		{% endif %}
 
-		<h1 class="text-center">{{ page.title }}</h1>
-
-	</div>
 </div>

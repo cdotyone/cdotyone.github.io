@@ -34,6 +34,10 @@ h3:before {
 }
 
 .jumbotron {
+	background-color: #333333;
+}
+
+.jumbotron.home {
 	background-image: url(/assets/images/top.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
