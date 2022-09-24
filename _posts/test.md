@@ -1,6 +1,13 @@
 ---
+layout: default
 title: Actions
 description: Actions are payloads of information that send data from the application to the store.
+date: 2019-07-06 05:00:00 +0200
+published: 2019-07-04 05:00:00 +0200
+comments: true
+categories: development
+tags: [test test2]
+github: "https://github.com/cdotyone/nerdle-dash"
 ---
 
 ## Configuration
