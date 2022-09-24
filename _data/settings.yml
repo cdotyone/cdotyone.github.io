@@ -7,12 +7,8 @@ disqus:
 google-ID: 'UA-91332049-1'
 
 menu: 
-  - name: Featured Projects
-    submenu:
-      - name: MicroBam
-        link: /projects/microbam
-      - name: OurLegacy
-        link: /projects/ourlegacy
+  - name: SpaceX CAMS
+    link: nerdle-dash
   - name: Posts
     link: /
   - name: Tags
