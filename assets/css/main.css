@@ -183,3 +183,7 @@ h3:before {
 		background-color: #12421f;
 	}
 }
+
+.inline-max {
+	max-height: 200px;
+}
