@@ -42,12 +42,12 @@ h3:before {
 
 .jumbotron.home {
 	background-image: url(/assets/images/top.jpg);
-	background-position-y: -20em;
+	background-position-y: center;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (min-width: 1400px) {
 	.jumbotron.home {
-		background-position-y: center;
+		background-position-y: -20em;
 	}
 }
 
