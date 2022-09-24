@@ -34,7 +34,10 @@ h3:before {
 }
 
 .jumbotron {
-	background: #719d7d;
+	background-image: url(/assets/images/top.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position-y: center;
 }
 
 .jumbotron h1 {
