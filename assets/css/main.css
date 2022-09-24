@@ -45,18 +45,6 @@ h3:before {
 	background-position-y: center;
 }
 
-@media only screen and (min-width: 1400px) {
-	.jumbotron.home {
-		background-position-y: -13em;
-	}
-}
-
-@media only screen and (min-width: 1600px) {
-	.jumbotron.home {
-		background-position-y: -20em;
-	}
-}
-
 .jumbotron h1 {
 	color: white;
 	letter-spacing: 0.2em;
