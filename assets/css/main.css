@@ -42,7 +42,7 @@ h3:before {
 
 .jumbotron.home {
 	background-image: url(/assets/images/top.jpg);
-	background-position-y: center;
+	background-position-y: top;
 }
 
 .jumbotron h1 {
