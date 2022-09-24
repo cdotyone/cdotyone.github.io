@@ -48,12 +48,12 @@
 				<h1 class="text-center">{{ page.title }}</h1>
 			</div>
 		{% else %}
-			{% if page.topimage %}
-			<div class="jumbotron home clearfix" style="background-image: url('/assets/images/{{page.topimage}}')">
+			{% if page.home %}
+			<div class="jumbotron home clearfix">
 				<h1 class="text-center">{{ page.title }}</h1>
 			</div>
 			{% else %}
-			<div class="jumbotron home clearfix">
+			<div class="jumbotron clearfix" style="background-image: url('/assets/images/posts/top.jpg')">
 				<h1 class="text-center">{{ page.title }}</h1>
 			</div>
 			{% endif %}
